@@ -1,0 +1,233 @@
+Color Name,Hex Code
+White,#ebdbb2
+White-10,#ebdbb21A
+Gray 120,#d4be98
+Gray 110,#bdae93
+Gray 100,#a89984
+Gray 90,#928374
+Gray 80,#7c6f64
+Gray 70,#665c54
+Gray 60,#504945
+Gray 50,#504945
+Gray 40,#3c3836
+Gray 30,#32302f
+Gray 20,#282828
+Gray 10,#1d2021
+Black,#1d2021
+Blue 110,#1d2021
+Blue 100,#7daea3
+Blue 90,#7daea3
+Blue 80,#7daea3
+Blue 70,#7daea3
+Blue 60,#7daea3
+Blue 50,#7daea3
+Blue 40,#7daea3
+Blue 30,#7daea3
+Blue 20,#7daea3
+Blue 10-60,#7daea3
+Blue 10,#1d2021
+Blue,#7daea3
+Red 80,#ea6962
+Red 70,#ea6962
+Red 60,#ea6962
+Red 50,#ea6962
+Red 40,#ea6962
+Red 30,#ea6962
+Red 20,#ea6962
+Red 10,#1d2021
+Green 80,#a9b665
+Green 70,#a9b665
+Green 60,#a9b665
+Green 50,#a9b665
+Green 40,#a9b665
+Green 30,#a9b665
+Green 20,#a9b665
+Green 10,#1d2021
+Yellow 60,#d8a657
+Yellow 50,#d8a657
+Yellow 40,#d8a657
+Yellow 30,#d8a657
+Yellow 20,#d8a657
+Yellow 10,#1d2021
+Purple 30,#d3869b
+Purple 20,#d3869b
+Purple 10-60,#d3869b
+Purple 10,#1d2021
+Blue Light,#83a598
+Coral,#ea6962
+Cyan,#89b482
+Cyan Dark,#689d6a
+Lime,#a9b665
+Orange,#e78a4e
+Pink,#d3869b
+Violet,#d3869b
+Yellow,#d8a657
+Violet 70,#d3869b
+Violet 60,#d3869b
+Violet 50,#d3869b
+Violet 40,#d3869b
+Violet 30,#d3869b
+Violet 20,#d3869b
+Violet 10,#1d2021
+Transparent,#00000000
+Neutral_160,#fbf1c7
+Neutral_150,#ddc7a1
+Neutral_140,#ebdbb2
+Neutral_130,#ebdbb2
+Neutral_120,#d4be98
+Neutral_110,#bdae93
+Neutral_100,#a89984
+Neutral_90,#928374
+Neutral_80,#7c6f64
+Neutral_70,#665c54
+Neutral_60,#504945
+Neutral_50,#504945
+Neutral_40,#3c3836
+Neutral_30,#32302f
+Neutral_20,#282828
+Neutral_10,#1d2021
+Blue_160,#83a598
+Blue_150,#83a598
+Blue_140,#7daea3
+Blue_130,#7daea3
+Blue_120,#7daea3
+Blue_110,#1d2021
+Blue_100,#7daea3
+Blue_90,#7daea3
+Blue_80,#7daea3
+Blue_70,#7daea3
+Blue_60,#7daea3
+Blue_50,#7daea3
+Blue_40,#7daea3
+Blue_30,#7daea3
+Blue_20,#7daea3
+Blue_10,#1d2021
+Green_160,#b8bb26
+Green_150,#a9b665
+Green_140,#a9b665
+Green_130,#a9b665
+Green_120,#a9b665
+Green_110,#1d2021
+Green_100,#1d2021
+Green_90,#a9b665
+Green_80,#a9b665
+Green_70,#a9b665
+Green_60,#a9b665
+Green_50,#a9b665
+Green_40,#a9b665
+Green_30,#a9b665
+Green_20,#a9b665
+Green_10,#1d2021
+Red_160,#fb4934
+Red_150,#ea6962
+Red_140,#ea6962
+Red_130,#ea6962
+Red_120,#ea6962
+Red_110,#1d2021
+Red_100,#1d2021
+Red_90,#ea6962
+Red_80,#ea6962
+Red_70,#ea6962
+Red_60,#ea6962
+Red_50,#ea6962
+Red_40,#ea6962
+Red_30,#ea6962
+Red_20,#ea6962
+Red_10,#1d2021
+Yellow_160,#fabd2f
+Yellow_150,#d8a657
+Yellow_140,#d8a657
+Yellow_130,#d8a657
+Yellow_120,#d8a657
+Yellow_110,#1d2021
+Yellow_100,#1d2021
+Yellow_90,#d8a657
+Yellow_80,#d8a657
+Yellow_70,#d8a657
+Yellow_60,#d8a657
+Yellow_50,#d8a657
+Yellow_40,#d8a657
+Yellow_30,#d8a657
+Yellow_20,#d8a657
+Yellow_10,#1d2021
+Violet_160,#d3869b
+Violet_150,#d3869b
+Violet_140,#d3869b
+Violet_130,#d3869b
+Violet_120,#d3869b
+Violet_110,#1d2021
+Violet_100,#1d2021
+Violet_90,#d3869b
+Violet_80,#d3869b
+Violet_70,#d3869b
+Violet_60,#d3869b
+Violet_50,#d3869b
+Violet_40,#d3869b
+Violet_30,#d3869b
+Violet_20,#d3869b
+Violet_10,#1d2021
+Purple_160,#d3869b
+Purple_150,#d3869b
+Purple_140,#d3869b
+Purple_130,#d3869b
+Purple_120,#d3869b
+Purple_110,#1d2021
+Purple_100,#1d2021
+Purple_90,#d3869b
+Purple_80,#d3869b
+Purple_70,#d3869b
+Purple_60,#d3869b
+Purple_50,#d3869b
+Purple_40,#d3869b
+Purple_30,#d3869b
+Purple_20,#d3869b
+Purple_10,#1d2021
+YellowBright_10,#d8a657
+LightTint_80,#ebdbb2CC
+LightTint_70,#ebdbb2B2
+LightTint_60,#ebdbb299
+LightTint_50,#ebdbb280
+LightTint_40,#ebdbb266
+LightTint_30,#ebdbb24D
+LightTint_20,#ebdbb233
+LightTint_15,#ebdbb226
+LightTint_12,#ebdbb21F
+LightTint_10,#ebdbb21A
+LightTint_8,#ebdbb214
+LightTint_5,#ebdbb20D
+DarkTint_70,#1d2021B2
+DarkTint_60,#1d202199
+DarkTint_30,#1d20214D
+DarkTint_20,#1d202133
+DarkTint_15,#1d202126
+DarkTint_10,#1d20211A
+DarkTint_7,#1d202112
+DarkTint_5,#1d20210D
+DarkTint_3,#1d202108
+BlueTint_60,#7daea399
+BlueTint_50,#7daea380
+BlueTint_40,#7daea366
+BlueTint_30,#7daea34D
+BlueTint_25,#7daea340
+BlueTint_20,#7daea333
+BlueTint_15,#7daea326
+BlueTint_10,#7daea31A
+BlueTint_5,#7daea30D
+RedTint_50,#ea696280
+RedTint_30,#ea69624D
+RedTint_20,#ea696233
+RedTint_15,#ea696226
+RedTint_10,#ea69621A
+GreenTint_50,#a9b66580
+GreenTint_40,#a9b66566
+GreenTint_20,#a9b66533
+GreenTint_10,#a9b6651A
+VioletTint_40,#d3869b66
+VioletTint_20,#d3869b33
+Pink_30,#3c3836
+PinkTint_10,#d3869b1A
+OrangeTint_10,#e78a4e1A
+Orange_30,#3c3836
+YellowTint_50,#d8a65780
+YellowTint_40,#d8a65766
+YellowTint_20,#d8a65733
