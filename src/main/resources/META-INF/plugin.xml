@@ -7,7 +7,7 @@
 
     <description><![CDATA[
       A high-contrast Gruvbox Material theme based on the Islands UI.
-      Includes both Dark and Light variants optimized for modern IntelliJ UIs.
+      Includes Dark variants optimized for modern IntelliJ UIs.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>

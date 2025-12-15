@@ -1,69 +1,39 @@
-# Armada Core Themes for IntelliJ-based IDEs
-
-![Build](https://github.com/DavidSeptimus/armada-theme-intellij-plugin/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/26844-armada-theme.svg)](https://plugins.jetbrains.com/plugin/26844-armada-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/26844-armada-theme.svg)](https://plugins.jetbrains.com/plugin/26844-armada-theme)
+# Gruvbox Material Island Theme
 
 ## Description
 
-<!-- Plugin description -->
-Armada Core Themes is a collection of themes based on JetBrains Fleet's default light and dark themes reimagined for IntelliJ-based IDEs.
+**Gruvbox Material Island Theme** brings the warm, retro-groove of the **Gruvbox Material** color palette to IntelliJ-based IDEs, specifically reimagined for the modern **Islands (New UI)** aesthetic.
 
-This plugin is part of the Armada family of themes, which includes both free and premium themes for JetBrains IDEs, primarily adapted from or inspired by the design aesthetics of JetBrains Fleet.
-The complete list of Armada premium themes can be found [here](https://plugins.jetbrains.com/plugin/26844-armada-theme/premium-themes).
+This theme combines the soft contrast and earthy tones of Gruvbox Material with the clean, windowless design of the new IntelliJ interface.
 
+### Current Status
 
-If you enjoy Armada Core Themes, but are looking for a more colorful UI, you might
-consider exploring the [Armada Dark Purple](https://plugins.jetbrains.com/plugin/28726-armada-dark-purple-theme) and [Armada Deep](https://plugins.jetbrains.com/plugin/28727-armada-deep-theme) premium themes, which offer additional color schemes inspired by Fleet's design.
+| Theme Variant | Status |
+| :--- | :--- |
+| **Gruvbox Material Dark** | ✅ **Available** |
+| **Gruvbox Material Light** | 🚧 **Work In Progress** |
 
 ### Features
 
-#### Includes Fleet-inspired Dark and Light UI themes/editor color schemes
-
-#### Supports all three UI generations!
-
-- **Islands**
-- New UI
-- Classic UI
+#### Designed for the "Islands" UI
+This theme is specifically tuned for the **New UI** (Islands), ensuring that toolbars, project trees, and editor tabs blend seamlessly with the Gruvbox palette.
 
 #### Enhanced Syntax Highlighting
+Includes a dedicated editor scheme that applies Gruvbox Material colors to your code, supporting a wide range of programming languages including Java, Kotlin, Python, JavaScript, Rust, Go, and more.
 
-Leverages the [Armada Syntax Highlighter](https://plugins.jetbrains.com/plugin/28723-armada-syntax-highlighter) plugin for more precise syntax highlighting in 13 programming languages and counting.
+---
 
-#### Supports 25+ Programming Languages
+### Installation
 
-Armada Core Themes have been optimized for syntax highlighting of 25+ programing languages, including:
+1. Open **Settings/Preferences** in your IDE.
+2. Navigate to **Plugins** > **Marketplace**.
+3. Search for **"Gruvbox Material Island Theme"**.
+4. Click **Install** and restart your IDE.
+5. Go to **Appearance & Behavior** > **Appearance** and select **Gruvbox Material Island** from the Theme dropdown.
 
-|            | Armada Dark | Armada Light |
-|------------|-------------|--------------|
-| C/C++      | ✅           | ✅            |
-| C#         | ✅           | ✅            |
-| CSS        | ✅           | ✅            |
-| Dockerfile | ✅           | ✅            |
-| Go         | ✅           | ✅            |
-| Java       | ✅           | ✅            |
-| JavaScript | ✅           | ✅            |
-| JSON       | ✅           | ✅            |
-| Kotlin     | ✅           | ✅            |
-| Lua        | ✅           | ✅            |
-| HTML       | ✅           | ✅            |
-| Markdown   | ✅           | ✅            |
-| NGINX Conf | ✅           | ✅            |
-| Perl       | ✅           | ❌            |
-| PHP        | ✅           | ✅            |
-| PowerShell | ✅           | ❌            |
-| Properties | ✅           | ✅            |
-| Python     | ✅           | ✅            |
-| R          | ✅           | ❌            |
-| Rust       | ✅           | ✅            |
-| SASS/SCSS  | ✅           | ✅            |
-| Shell      | ✅           | ✅            |
-| SQL        | ✅           | ✅            |
-| Typescript | ✅           | ✅            |
-| TOML       | ✅           | ✅            |
-| XML        | ✅           | ✅            |
-| YAML       | ✅           | ✅            |
-| Zig        | ✅           | ✅            |
+### Acknowledgments
+
+Special thanks to the [Armada Core Themes](https://plugins.jetbrains.com/plugin/26844-armada-core-themes) plugin, which served as the foundational inspiration and base for this theme's structure.
 
 ***This plugin is not affiliated with or endorsed by JetBrains.***
-<!-- Plugin description end -->
+
