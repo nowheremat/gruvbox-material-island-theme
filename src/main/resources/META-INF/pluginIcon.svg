@@ -1,26 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>Gruvbox Material Theme Icon</title>
+    <defs>
+        <color id="gb-bg" value="#282828"/> <color id="gb-bg-light" value="#3c3836"/> <color id="gb-fg" value="#ebdbb2"/> <color id="gb-red" value="#fb4934"/>
+        <color id="gb-green" value="#b8bb26"/>
+        <color id="gb-yellow" value="#fabd2f"/>
+        <color id="gb-blue" value="#83a598"/>
+        <color id="gb-purple" value="#d3869b"/>
+        <color id="gb-aqua" value="#8ec07c"/>
+        <color id="gb-grey" value="#928374"/> </defs>
 
-              <!-- Main blob with simple gradient -->
-              <defs>
-                <linearGradient id="cleanGradient" x1="25%" y1="25%" x2="75%" y2="75%">
-                  <stop offset="0%" stop-color="#0DF9FF" /> <!-- Bright cyan -->
-                  <stop offset="60%" stop-color="#0094FF" /> <!-- Medium blue -->
-                  <stop offset="100%" stop-color="#E040FB" /> <!-- Magenta -->
-                </linearGradient>
+    <rect x="8" y="12" width="112" height="104" rx="12" fill="#282828" stroke="#3c3836" stroke-width="2"/>
 
-                <!-- Very subtle glow -->
-                <filter id="minimalGlow" x="-10%" y="-10%" width="120%" height="120%">
-                  <feGaussianBlur stdDeviation="0.6" result="blur"/>
-                  <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-                </filter>
-              </defs>
+    <path d="M10 24 C10 17.3726 15.3726 12 22 12 H106 C112.627 12 118 17.3726 118 24 V32 H10 V24 Z" fill="#3c3836"/>
 
-              <!-- Center the 36x36 content in the 40x40 viewbox (2px margin on all sides) -->
-              <g transform="translate(2, 2) scale(0.9)">
-                <!-- Main circular shape (scaled to fit in 36x36) -->
-                <circle cx="20" cy="20" r="20" fill="url(#cleanGradient)" filter="url(#minimalGlow)"/>
+    <circle cx="24" cy="22" r="5" fill="#fb4934"/>
+    <circle cx="38" cy="22" r="5" fill="#fabd2f"/>
+    <circle cx="52" cy="22" r="5" fill="#b8bb26"/>
 
-                <!-- Simple concavity without effects (scaled proportionally) -->
-                <circle cx="20" cy="20" r="14.875" fill="#1a2531" opacity="0.3"/>
-              </g>
-            </svg>
+    <g transform="translate(24, 48)">
+        <rect y="0" width="20" height="8" rx="4" fill="#fb4934"/>
+        <rect x="28" y="0" width="40" height="8" rx="4" fill="#ebdbb2"/>
+
+        <rect x="16" y="16" width="30" height="8" rx="4" fill="#8ec07c"/>
+        <rect x="54" y="16" width="14" height="8" rx="4" fill="#fabd2f"/>
+
+        <rect x="16" y="32" width="24" height="8" rx="4" fill="#d3869b"/>
+        <rect x="48" y="32" width="8" height="8" rx="4" fill="#ebdbb2"/>
+        <rect x="64" y="32" width="12" height="8" rx="4" fill="#d3869b"/>
+
+        <rect y="48" width="60" height="8" rx="4" fill="#928374"/>
+    </g>
+</svg>
