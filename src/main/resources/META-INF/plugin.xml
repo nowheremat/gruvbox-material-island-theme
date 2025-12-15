@@ -1,9 +1,9 @@
 <idea-plugin>
-    <id>com.yourname.gruvbox.material.island</id>
+    <id>com.nowheremat.gruvbox.material.island</id>
 
     <name>Gruvbox Material Island Theme</name>
 
-    <vendor url="https://github.com/yourusername/gruvbox-material-island-theme">Your Name</vendor>
+    <vendor url="https://github.com/nowheremat/gruvbox-material-island-theme">Your Name</vendor>
 
     <description><![CDATA[
       A high-contrast Gruvbox Material theme based on the Islands UI.
@@ -23,8 +23,14 @@
 
         <themeProvider
                 id="com.github.nowheremat.gruvbox.dark.islands"
-                path="themes/armada-dark/armada-dark-islands.theme.json"
+                path="themes/gruvbox-material-dark/gruvbox-material-dark.json"
                 targetUi="islands"
+        />
+
+        <themeProvider
+                id="com.github.nowheremat.gruvbox.dark.new"
+                path="themes/gruvbox-material-dark/gruvbox-material-dark.json"
+                targetUi="new"
         />
 
     </extensions>
