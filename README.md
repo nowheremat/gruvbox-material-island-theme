@@ -1,5 +1,5 @@
 # Gruvbox Material Island Theme
-
+<!-- Plugin description -->
 ## Description
 
 **Gruvbox Material Island Theme** brings the warm, retro-groove of the **Gruvbox Material** color palette to IntelliJ-based IDEs, specifically reimagined for the modern **Islands (New UI)** aesthetic.
@@ -22,6 +22,7 @@ This theme is specifically tuned for the **New UI** (Islands), ensuring that too
 Includes a dedicated editor scheme that applies Gruvbox Material colors to your code, supporting a wide range of programming languages including Java, Kotlin, Python, JavaScript, Rust, Go, and more.
 
 ---
+<!-- Plugin description end -->
 
 ### Installation
 

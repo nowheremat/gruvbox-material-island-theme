@@ -2,6 +2,14 @@
 
 # Gruvbox Material Island Changelog
 
+
+## [Unreleased]
+
+### Added
+- Initial release of the Gruvbox Material Island Theme.
+- Includes Dark theme variant for New UI (Islands).
+- Includes custom Editor Color Scheme.
+
 ## [0.8.0] - 2025-15-12
 
 ### Added
