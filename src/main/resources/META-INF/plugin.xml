@@ -3,7 +3,7 @@
 
     <name>Gruvbox Material Island Theme</name>
 
-    <vendor url="https://github.com/nowheremat/gruvbox-material-island-theme">Your Name</vendor>
+    <vendor url="https://github.com/nowheremat/gruvbox-material-island-theme">Nowheremat</vendor>
 
     <description><![CDATA[
       A high-contrast Gruvbox Material theme based on the Islands UI.
@@ -15,11 +15,6 @@
     <depends optional="true" config-file="plugin-classic-ui.xml">com.intellij.classic.ui</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider
-                id="com.github.nowheremat.gruvbox.dark"
-                path="themes/armada-dark/armada-dark.theme.json"
-                targetUi="new"
-        />
 
         <themeProvider
                 id="com.github.nowheremat.gruvbox.dark.islands"
@@ -27,11 +22,11 @@
                 targetUi="islands"
         />
 
-        <themeProvider
-                id="com.github.nowheremat.gruvbox.dark.new"
-                path="themes/gruvbox-material-dark/gruvbox-material-dark.json"
-                targetUi="new"
-        />
+<!--        <themeProvider-->
+<!--                id="com.github.nowheremat.gruvbox.dark.new"-->
+<!--                path="themes/gruvbox-material-dark/gruvbox-material-dark.json"-->
+<!--                targetUi="new"-->
+<!--        />-->
 
     </extensions>
 
