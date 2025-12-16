@@ -156,10 +156,10 @@
       "errorForeground": "Red_100"
     },
     "Link": {
-      "activeForeground": "Blue_110",
-      "hoverForeground": "Blue_100",
-      "visitedForeground": "Blue_80",
-      "pressedForeground": "Blue_90"
+      "activeForeground": "#7daea3",
+      "hoverForeground": "#89b482",
+      "visitedForeground": "#7daea3",
+      "pressedForeground": "#89b482"
     },
     "CheckBox": {
       "disabledText": "Neutral_100",
