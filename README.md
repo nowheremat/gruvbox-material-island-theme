@@ -11,7 +11,7 @@ This theme combines the soft contrast and earthy tones of Gruvbox Material with 
 | Theme Variant | Status |
 | :--- | :--- |
 | **Gruvbox Material Dark** | ✅ **Available** |
-| **Gruvbox Material Light** | 🚧 **Work In Progress** |
+| **Gruvbox Material Light** | ✅ **Available** |
 
 ### Features
 

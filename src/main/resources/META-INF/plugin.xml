@@ -22,6 +22,12 @@
                 targetUi="islands"
         />
 
+        <themeProvider
+                id="com.github.nowheremat.gruvbox.light.new"
+                path="themes/gruvbox-material-light/gruvbox-material-light.json"
+                targetUi="new"
+        />
+
 <!--        <themeProvider-->
 <!--                id="com.github.nowheremat.gruvbox.dark.new"-->
 <!--                path="themes/gruvbox-material-dark/gruvbox-material-dark.json"-->
