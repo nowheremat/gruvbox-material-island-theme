@@ -1,33 +1,64 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <title>Gruvbox Material Theme Icon</title>
+    <title>Gruvbox Material Theme Icon (Dark/Light Split)</title>
     <defs>
-        <color id="gb-bg" value="#282828"/> <color id="gb-bg-light" value="#3c3836"/> <color id="gb-fg" value="#ebdbb2"/> <color id="gb-red" value="#fb4934"/>
+        <clipPath id="light-split-clip">
+            <polygon points="0,0 128,0 128,128 Z" />
+        </clipPath>
+
+        <color id="gb-red" value="#fb4934"/>
         <color id="gb-green" value="#b8bb26"/>
         <color id="gb-yellow" value="#fabd2f"/>
-        <color id="gb-blue" value="#83a598"/>
         <color id="gb-purple" value="#d3869b"/>
         <color id="gb-aqua" value="#8ec07c"/>
-        <color id="gb-grey" value="#928374"/> </defs>
+    </defs>
 
-    <rect x="8" y="12" width="112" height="104" rx="12" fill="#282828" stroke="#3c3836" stroke-width="2"/>
+    <g id="dark-theme-base">
+        <rect x="8" y="12" width="112" height="104" rx="12" fill="#282828" stroke="#3c3836" stroke-width="2"/>
 
-    <path d="M10 24 C10 17.3726 15.3726 12 22 12 H106 C112.627 12 118 17.3726 118 24 V32 H10 V24 Z" fill="#3c3836"/>
+        <path d="M10 24 C10 17.3726 15.3726 12 22 12 H106 C112.627 12 118 17.3726 118 24 V32 H10 V24 Z" fill="#3c3836"/>
 
-    <circle cx="24" cy="22" r="5" fill="#fb4934"/>
-    <circle cx="38" cy="22" r="5" fill="#fabd2f"/>
-    <circle cx="52" cy="22" r="5" fill="#b8bb26"/>
+        <circle cx="24" cy="22" r="5" fill="#fb4934"/>
+        <circle cx="38" cy="22" r="5" fill="#fabd2f"/>
+        <circle cx="52" cy="22" r="5" fill="#b8bb26"/>
 
-    <g transform="translate(24, 48)">
-        <rect y="0" width="20" height="8" rx="4" fill="#fb4934"/>
-        <rect x="28" y="0" width="40" height="8" rx="4" fill="#ebdbb2"/>
+        <g transform="translate(24, 48)">
+            <rect y="0" width="20" height="8" rx="4" fill="#fb4934"/>
+            <rect x="28" y="0" width="40" height="8" rx="4" fill="#ebdbb2"/>
 
-        <rect x="16" y="16" width="30" height="8" rx="4" fill="#8ec07c"/>
-        <rect x="54" y="16" width="14" height="8" rx="4" fill="#fabd2f"/>
+            <rect x="16" y="16" width="30" height="8" rx="4" fill="#8ec07c"/>
+            <rect x="54" y="16" width="14" height="8" rx="4" fill="#fabd2f"/>
 
-        <rect x="16" y="32" width="24" height="8" rx="4" fill="#d3869b"/>
-        <rect x="48" y="32" width="8" height="8" rx="4" fill="#ebdbb2"/>
-        <rect x="64" y="32" width="12" height="8" rx="4" fill="#d3869b"/>
+            <rect x="16" y="32" width="24" height="8" rx="4" fill="#d3869b"/>
+            <rect x="48" y="32" width="8" height="8" rx="4" fill="#ebdbb2"/>
+            <rect x="64" y="32" width="12" height="8" rx="4" fill="#d3869b"/>
 
-        <rect y="48" width="60" height="8" rx="4" fill="#928374"/>
+            <rect y="48" width="60" height="8" rx="4" fill="#928374"/>
+        </g>
     </g>
+
+    <g id="light-theme-top-half" clip-path="url(#light-split-clip)">
+        <rect x="8" y="12" width="112" height="104" rx="12" fill="#fbf1c7" stroke="#ebdbb2" stroke-width="2"/>
+
+        <path d="M10 24 C10 17.3726 15.3726 12 22 12 H106 C112.627 12 118 17.3726 118 24 V32 H10 V24 Z" fill="#ebdbb2"/>
+
+        <circle cx="24" cy="22" r="5" fill="#fb4934"/>
+        <circle cx="38" cy="22" r="5" fill="#fabd2f"/>
+        <circle cx="52" cy="22" r="5" fill="#b8bb26"/>
+
+        <g transform="translate(24, 48)">
+            <rect y="0" width="20" height="8" rx="4" fill="#fb4934"/>
+            <rect x="28" y="0" width="40" height="8" rx="4" fill="#3c3836"/>
+
+            <rect x="16" y="16" width="30" height="8" rx="4" fill="#8ec07c"/>
+            <rect x="54" y="16" width="14" height="8" rx="4" fill="#fabd2f"/>
+
+            <rect x="16" y="32" width="24" height="8" rx="4" fill="#d3869b"/>
+            <rect x="48" y="32" width="8" height="8" rx="4" fill="#3c3836"/>
+            <rect x="64" y="32" width="12" height="8" rx="4" fill="#d3869b"/>
+
+            <rect y="48" width="60" height="8" rx="4" fill="#a89984"/>
+        </g>
+    </g>
+
+    <line x1="0" y1="0" x2="128" y2="128" stroke="#282828" stroke-width="1" opacity="0.1"/>
 </svg>
