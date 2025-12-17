@@ -53,6 +53,7 @@
         <option name="BACKGROUND" value="6e3b3b" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="BLOCK_TERMINAL_BLACK">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -515,27 +516,22 @@
         <option name="BACKGROUND" value="481515" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FOREGROUND" value="a9b665" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="71d7d7" />
+        <option name="FOREGROUND" value="7daea3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffc2c2" />
+        <option name="FOREGROUND" value="d3869b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -626,6 +622,11 @@
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="7daea3" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="7daea3" />
       </value>
@@ -1238,7 +1239,15 @@
         <option name="FOREGROUND" value="d8a657" />
       </value>
     </option>
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ddc7a1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="ea6962" />
@@ -1351,7 +1360,6 @@
         <option name="FOREGROUND" value="d8a657" />
       </value>
     </option>
-    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d4be98" />
@@ -1955,6 +1963,8 @@
     </option>
     <option name="SPY-JS.VALUE_HINT" baseAttributes="" />
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="d8a657" />
