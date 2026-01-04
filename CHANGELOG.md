@@ -6,9 +6,7 @@
 ## [Unreleased]
 
 ### Added
-- Initial release of the Gruvbox Material Island Theme.
-- Includes Dark theme variant for New UI (Islands).
-- Includes custom Editor Color Scheme.
+- Notification pop up color change
 
 ## [0.9.0] - 2025-16-12
 

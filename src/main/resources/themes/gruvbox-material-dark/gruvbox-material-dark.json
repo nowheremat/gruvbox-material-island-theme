@@ -287,8 +287,8 @@
       "separatorColor": "Neutral_40"
     },
     "Notification": {
-      "background": "Neutral_30",
-      "borderColor": "Neutral_40",
+      "background": "Neutral_10",
+      "borderColor": "Neutral_20",
       "errorBackground": "Red_30",
       "errorBorderColor": "Red_60"
     },
