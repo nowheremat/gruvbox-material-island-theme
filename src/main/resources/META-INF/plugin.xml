@@ -17,15 +17,15 @@
     <extensions defaultExtensionNs="com.intellij">
 
         <themeProvider
-                id="com.github.nowheremat.gruvbox.dark.islands"
+                id="com.github.nowheremat.gruvbox-material.dark.islands"
                 path="themes/gruvbox-material-dark/gruvbox-material-dark.json"
                 targetUi="islands"
         />
 
         <themeProvider
-                id="com.github.nowheremat.gruvbox.light.new"
+                id="com.github.nowheremat.gruvbox-material.light.islands"
                 path="themes/gruvbox-material-light/gruvbox-material-light.json"
-                targetUi="new"
+                targetUi="islands"
         />
 
 <!--        <themeProvider-->
