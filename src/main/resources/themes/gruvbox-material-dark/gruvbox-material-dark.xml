@@ -1,8 +1,8 @@
-<scheme name="Gruvbox Material Dark" version="142" parent_scheme="Darcula">
+<scheme name="Gruvbox Material Dark Island" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.3.0.0</property>
-    <property name="originalScheme">Gruvbox Material Dark</property>
+    <property name="originalScheme">Gruvbox Material Dark Island</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="000000" />

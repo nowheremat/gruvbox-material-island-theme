@@ -1,8 +1,8 @@
-<scheme name="Gruvbox Material Light" version="142" parent_scheme="Default">
+<scheme name="Gruvbox Material Light Island" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.3.0.0</property>
-    <property name="originalScheme">Gruvbox Material Light</property>
+    <property name="originalScheme">Gruvbox Material Light Island</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="8b9bb4" />

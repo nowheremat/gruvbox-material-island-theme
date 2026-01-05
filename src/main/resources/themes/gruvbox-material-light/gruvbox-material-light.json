@@ -1,7 +1,7 @@
 {
   "author": "Matias Cordon",
   "dark": false,
-  "name": "Gruvbox Material Light",
+  "name": "Gruvbox Material Light Island",
   "editorScheme": "themes/gruvbox-material-light/gruvbox-material-light.xml",
   "icons": {
     "/com/intellij/ide/ui/laf/icons/checkBox.svg": "/themes/gruvbox-material-light/icons/checkBox.svg",
