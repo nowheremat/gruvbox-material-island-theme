@@ -5,6 +5,11 @@
 
 ## [Unreleased]
 
+### Added - 2026-31-03
+
+- Idea version update
+
+
 ### Added - 2026-11-03
 
 - Changes active color tabs 
