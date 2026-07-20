@@ -175,6 +175,7 @@
         <option name="FOREGROUND" value="b47109" />
       </value>
     </option>
+    <option name="CLASS_NAME_ATTRIBUTES" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="45707a" />
@@ -1078,6 +1079,8 @@
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INTERFACE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_INTERFACE_NAME" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="a89984" />
@@ -1962,6 +1965,13 @@
       </value>
     </option>
     <option name="SPY-JS.VALUE_HINT" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="945e80" />
+        <option name="BACKGROUND" value="f9f5d7" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
