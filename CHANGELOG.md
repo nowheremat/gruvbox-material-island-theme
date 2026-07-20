@@ -5,6 +5,13 @@
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-20-07
+
+### Added
+- Idea version update
+- Changes folding icons
+- updated light version
+
 ### Added - 2026-31-03
 
 - Idea version update
