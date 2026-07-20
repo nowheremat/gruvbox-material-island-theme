@@ -19,6 +19,12 @@
     "/com/intellij/ide/ui/laf/icons/radioSelected.svg": "/themes/gruvbox-material-light/icons/radioSelected.svg",
     "/com/intellij/ide/ui/laf/icons/radioSelectedDisabled.svg": "/themes/gruvbox-material-light/icons/radioSelectedDisabled.svg",
     "/com/intellij/ide/ui/laf/icons/radioSelectedFocused.svg": "/themes/gruvbox-material-light/icons/radioSelectedFocused.svg",
+    "/expui/gutter/fold.svg": "/themes/gruvbox-material-light/icons/fold.svg",
+    "/expui/gutter/fold_dark.svg": "/themes/gruvbox-material-light/icons/fold_dark.svg",
+    "/expui/gutter/foldBottom.svg": "/themes/gruvbox-material-light/icons/foldBottom.svg",
+    "/expui/gutter/foldBottom_dark.svg": "/themes/gruvbox-material-light/icons/foldBottom_dark.svg",
+    "/expui/gutter/unfold.svg": "/themes/gruvbox-material-light/icons/unfold.svg",
+    "/expui/gutter/unfold_dark.svg": "/themes/gruvbox-material-light/icons/unfold_dark.svg",
     "ColorPalette": {
       "Tree.iconColor": "Neutral_140",
       "Gray.Fill": "Gray 50",
