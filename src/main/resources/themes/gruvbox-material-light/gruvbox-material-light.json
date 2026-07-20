@@ -382,6 +382,7 @@
       "selectedPressedBackground": "BlueTint_25"
     },
     "Island": {
+      "background": "Neutral_30",
       "borderColor": "Neutral_30"
     }
   },
