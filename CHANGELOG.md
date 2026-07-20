@@ -5,6 +5,16 @@
 
 ## [Unreleased]
 
+### Added - 2026-31-03
+
+- Idea version update
+
+
+### Added - 2026-11-03
+
+- Changes active color tabs 
+- Forces black into main top bar on dark scheme
+
 ### Added - 2026-03-03
 
 - Background color change to #181818 from #282828

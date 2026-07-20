@@ -87,9 +87,9 @@
       "underlineColor": "Orange",
       "inactiveUnderlineColor": "LightTint_8",
       "hoverBackground": "LightTint_8",
-      "underlinedBorderColor": "BlueTint_40",
-      "underTabsBorderColor": "Neutral_30",
-      "underlinedTabBackground": "Neutral_30"
+      "underlinedBorderColor": "BlueTint_60",
+      "underTabsBorderColor": "Neutral_20",
+      "underlinedTabBackground": "Neutral_20"
     },
     "TabbedPane": {
       "underlineColor": "Orange",
@@ -110,6 +110,8 @@
     },
     "MainToolbar": {
       "background": "Neutral_10",
+      "inactiveBackground": "Neutral_10",
+      "inactive.background": "#282828",
       "borderColor": "Transparent"
     },
     "MainWindow": {
@@ -178,7 +180,8 @@
         "inactiveUnderlineColor": "LightTint_30"
       },
       "Header": {
-        "inactiveBackground": "Neutral_20"
+        "inactiveBackground": "Neutral_20",
+        "inactive.background": "Neutral_20"
       },
       "Button": {
         "selectedBackground": "Blue_90",
