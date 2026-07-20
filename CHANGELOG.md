@@ -11,6 +11,8 @@
 - Idea version update
 - Changes folding icons
 - updated light version
+- Title color contrast
+- Changes icons colors
 
 ### Added - 2026-31-03
 
