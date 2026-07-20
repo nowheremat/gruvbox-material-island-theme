@@ -87,6 +87,7 @@
       "hoverBackground": "LightTint_8"
     },
     "EditorTabs": {
+      "background": "Neutral_15",
       "borderColor": "Transparent",
       "underlineColor": "Orange",
       "inactiveUnderlineColor": "LightTint_8",
@@ -177,7 +178,8 @@
         "inactiveUnderlineColor": "LightTint_30"
       },
       "Header": {
-        "inactiveBackground": "Neutral_20"
+        "inactiveBackground": "Neutral_15",
+        "background": "Neutral_15"
       },
       "Button": {
         "selectedBackground": "Neutral_50",
@@ -471,6 +473,7 @@
     "Neutral_40": "#32302f",
     "Neutral_30": "#282828",
     "Neutral_20": "#282828",
+    "Neutral_15": "#202020",
     "Neutral_10": "#1d2021",
     "Blue_160": "#F7F8FE",
     "Blue_150": "#E9EFFC",

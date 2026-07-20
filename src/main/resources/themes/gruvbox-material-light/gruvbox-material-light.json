@@ -93,6 +93,7 @@
       "underlinedTabBackground": "Neutral_30"
     },
     "EditorTabs": {
+      "background": "Neutral_50",
       "borderColor": "Transparent",
       "underlineColor": "Orange",
       "inactiveUnderlineColor": "LightTint_8",
@@ -189,8 +190,8 @@
         "inactiveUnderlineColor": "LightTint_30"
       },
       "Header": {
-        "inactiveBackground": "Neutral_30",
-        "background": "Neutral_30"
+        "inactiveBackground": "Neutral_50",
+        "background": "Neutral_50"
       },
       "Button": {
         "selectedBackground": "Blue_90",
