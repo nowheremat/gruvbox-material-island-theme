@@ -5,6 +5,11 @@
 
 ## [Unreleased]
 
+## [1.4.2]  - 2026-29-07
+
+### Added
+- Neutral_15 color changed to #242424 from #202020 (slight contrast)
+
 ## [0.10.0] - 2026-20-07
 
 ### Added
