@@ -12,8 +12,6 @@
 
     <depends>com.intellij.modules.platform</depends>
 
-    <depends optional="true" config-file="plugin-classic-ui.xml">com.intellij.classic.ui</depends>
-
     <extensions defaultExtensionNs="com.intellij">
 
         <themeProvider
@@ -23,8 +21,32 @@
         />
 
         <themeProvider
+                id="com.github.nowheremat.gruvbox-material.dark.hard.islands"
+                path="themes/gruvbox-material-dark-hard/gruvbox-material-dark-hard.json"
+                targetUi="islands"
+        />
+
+        <themeProvider
+                id="com.github.nowheremat.gruvbox-material.dark.soft.islands"
+                path="themes/gruvbox-material-dark-soft/gruvbox-material-dark-soft.json"
+                targetUi="islands"
+        />
+
+        <themeProvider
                 id="com.github.nowheremat.gruvbox-material.light.islands"
                 path="themes/gruvbox-material-light/gruvbox-material-light.json"
+                targetUi="islands"
+        />
+
+        <themeProvider
+                id="com.github.nowheremat.gruvbox-material.light.hard.islands"
+                path="themes/gruvbox-material-light-hard/gruvbox-material-light-hard.json"
+                targetUi="islands"
+        />
+
+        <themeProvider
+                id="com.github.nowheremat.gruvbox-material.light.soft.islands"
+                path="themes/gruvbox-material-light-soft/gruvbox-material-light-soft.json"
                 targetUi="islands"
         />
 

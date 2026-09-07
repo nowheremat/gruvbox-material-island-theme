@@ -5,6 +5,12 @@
 
 ## [Unreleased]
 
+.
+
+## [2.0.0]  - 2026-07-09
+
+- It adds hard and soft variants for light and dark theme
+
 ## [1.4.2]  - 2026-29-07
 
 ### Added
