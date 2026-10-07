@@ -1,7 +1,7 @@
 {
   "author": "Matias Cordon",
   "dark": false,
-  "name": "Gruvbox Material Light Island",
+  "name": "Gruvbox Material Light Medium",
   "editorScheme": "themes/gruvbox-material-light/gruvbox-material-light.xml",
   "icons": {
     "/com/intellij/ide/ui/laf/icons/checkBox.svg": "/themes/gruvbox-material-light/icons/checkBox.svg",
@@ -93,14 +93,14 @@
       "underlinedTabBackground": "Neutral_30"
     },
     "EditorTabs": {
-      "background": "Neutral_50",
+      "background": "Neutral_20",
       "borderColor": "Transparent",
       "underlineColor": "Orange",
       "inactiveUnderlineColor": "LightTint_8",
       "hoverBackground": "LightTint_8",
       "underlinedBorderColor": "BlueTint_40",
-      "underTabsBorderColor": "Neutral_30",
-      "underlinedTabBackground": "Neutral_30"
+      "underTabsBorderColor": "Neutral_90",
+      "underlinedTabBackground": "Neutral_20"
     },
     "TabbedPane": {
       "underlineColor": "Orange",
@@ -190,8 +190,10 @@
         "inactiveUnderlineColor": "LightTint_30"
       },
       "Header": {
-        "inactiveBackground": "Neutral_50",
-        "background": "Neutral_50"
+        "inactiveBackground": "Neutral_20",
+        "background": "Neutral_20",
+        "inactive.background": "Neutral_20",
+        "borderColor": "Neutral_90"
       },
       "Button": {
         "selectedBackground": "Blue_90",
@@ -389,7 +391,7 @@
       "selectedPressedBackground": "BlueTint_25"
     },
     "Island": {
-      "background": "Neutral_30",
+      "background": "Neutral_20",
       "borderColor": "Neutral_30"
     }
   },

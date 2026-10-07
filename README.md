@@ -8,12 +8,18 @@ This theme combines the soft contrast and earthy tones of Gruvbox Material with 
 
 ### Current Status
 
-| Theme Variant | Status |
-| :--- | :--- |
-| **Gruvbox Material Dark** | ✅ **Available** |
-| **Gruvbox Material Light** | ✅ **Available** |
+| Theme Variant                     | Status |
+|:----------------------------------| :--- |
+| **Gruvbox Material Dark Hard**    | ✅ **Available** |
+| **Gruvbox Material Dark Medium**  | ✅ **Available** |
+| **Gruvbox Material Dark Soft**    | ✅ **Available** |
+| **Gruvbox Material Light Hard**   | ✅ **Available** |
+| **Gruvbox Material Light Medium** | ✅ **Available** |
+| **Gruvbox Material Light Soft**   | ✅ **Available** |
 
 ### Features
+
+### Supports hard, medium and soft variants.
 
 #### Designed for the "Islands" UI
 This theme is specifically tuned for the **New UI** (Islands), ensuring that toolbars, project trees, and editor tabs blend seamlessly with the Gruvbox palette.

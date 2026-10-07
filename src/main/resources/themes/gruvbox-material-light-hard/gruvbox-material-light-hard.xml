@@ -1,4 +1,4 @@
-<scheme name="Gruvbox Material Light Island (Hard)" version="142" parent_scheme="Default">
+<scheme name="Gruvbox Material Light Hard" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.3.0.0</property>
@@ -29,6 +29,7 @@
     <option name="FILESTATUS_UNKNOWN" value="c14a4a" />
     <option name="GUTTER_BACKGROUND" value="f9f5d7" />
     <option name="INDENT_GUIDE" value="ebdbb2" />
+    <option name="RIGHT_MARGIN_COLOR" value="ddccab" />
     <option name="LINE_NUMBERS_COLOR" value="a89984" />
     <option name="READONLY_BACKGROUND" value="f3eac7" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="f3eac7" />

@@ -1,7 +1,7 @@
 {
   "author": "Matias Cordon",
   "dark": true,
-  "name": "Gruvbox Material Dark Island",
+  "name": "Gruvbox Material Dark Medium",
   "editorScheme": "themes/gruvbox-material-dark/gruvbox-material-dark.xml",
   "icons": {
     "/com/intellij/ide/ui/laf/icons/darcula/checkBox.svg": "/themes/gruvbox-material-dark/icons/checkBox.svg",
@@ -89,13 +89,13 @@
       "underlinedTabBackground": "Neutral_30"
     },
     "EditorTabs": {
-      "background": "Neutral_15",
+      "background": "Neutral_20",
       "borderColor": "Transparent",
       "underlineColor": "Orange",
       "inactiveUnderlineColor": "LightTint_25",
       "hoverBackground": "LightTint_8",
       "underlinedBorderColor": "BlueTint_60",
-      "underTabsBorderColor": "Neutral_20",
+      "underTabsBorderColor": "Neutral_80",
       "underlinedTabBackground": "Neutral_20"
     },
     "TabbedPane": {
@@ -187,9 +187,10 @@
         "inactiveUnderlineColor": "LightTint_30"
       },
       "Header": {
-        "inactiveBackground": "Neutral_15",
-        "inactive.background": "Neutral_15",
-        "background": "Neutral_15"
+        "inactiveBackground": "Neutral_20",
+        "inactive.background": "Neutral_20",
+        "background": "Neutral_20",
+        "borderColor": "Neutral_80"
       },
       "Button": {
         "selectedBackground": "Blue_90",

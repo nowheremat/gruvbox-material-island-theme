@@ -1,4 +1,4 @@
-<scheme name="Gruvbox Material Dark Island (Soft)" version="142" parent_scheme="Darcula">
+<scheme name="Gruvbox Material Dark Soft" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2025.3.0.0</property>
@@ -29,6 +29,7 @@
     <option name="FILESTATUS_UNKNOWN" value="F77669" />
     <option name="GUTTER_BACKGROUND" value="3c3837" />
     <option name="INDENT_GUIDE" value="504945" />
+    <option name="RIGHT_MARGIN_COLOR" value="45403d" />
     <option name="LINE_NUMBERS_COLOR" value="D4BE98" />
     <option name="READONLY_BACKGROUND" value="32302f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="32302f" />
