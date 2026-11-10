@@ -5,7 +5,11 @@
 
 ## [Unreleased]
 
-.
+### Added
+- Support for IntelliJ IDEA 2026.3 (build 263)
+
+### Changed
+- Selected tabs (editor, tool window and tabbed panes) get a subtle highlight for slightly more contrast
 
 ## [2.1.0]  - 2026-10-07
 

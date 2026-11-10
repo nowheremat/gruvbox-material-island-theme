@@ -86,7 +86,7 @@
       "inactiveUnderlineColor": "LightTint_8",
       "hoverBackground": "LightTint_8",
       "underlinedBorderColor": "BlueTint_40",
-      "underlinedTabBackground": "Neutral_30"
+      "underlinedTabBackground": "LightTint_12"
     },
     "EditorTabs": {
       "background": "Neutral_20",
@@ -96,7 +96,7 @@
       "hoverBackground": "LightTint_8",
       "underlinedBorderColor": "BlueTint_60",
       "underTabsBorderColor": "Neutral_80",
-      "underlinedTabBackground": "Neutral_20"
+      "underlinedTabBackground": "LightTint_12"
     },
     "TabbedPane": {
       "underlineColor": "Orange",
@@ -104,7 +104,7 @@
       "hoverColor": "LightTint_8",
       "focusColor": "BlueTint_25",
       "underlinedBorderColor": "BlueTint_40",
-      "underlinedTabBackground": "Neutral_30"
+      "underlinedTabBackground": "LightTint_12"
     },
     "FileColor": {
       "Blue": "Blue_30",
